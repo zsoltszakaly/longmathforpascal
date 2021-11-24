@@ -4,8 +4,8 @@ Pascal unit to declare and manipulate very large integer numbers with some limit
 
   Operators or functions
     For most operations there are two approaches:
-      A function: Number1:= Multiply(Number2, Number3);
-      An operator overload: Number1 := Number2 * Number3;
+      A function: Number1:= Multiply(Number2, Number3);      
+      An operator overload: Number1 := Number2 * Number3;      
 
   Error reporting
     If an error occurs then an Exception is raised (unless switched off)
